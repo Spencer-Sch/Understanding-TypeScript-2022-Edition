@@ -16,10 +16,10 @@ Tracking my progress through the course.
 
 #### Section 1: Getting Started
 
-✅ Lesson 1: Welcome to the Course! - Complete
-✅ Lesson 2: What is TypeScript & Why Shoud You Use it? - Complete
-✅ Lesson 3: Join Our Learning Community - Complete
-✅ Lesson 4: Installing & Using TypeScript - Complete
-✅ Lesson 5: TypeScript Advantages - Overview - Complete
+✅ Lesson 1: Welcome to the Course! - Complete <br>
+✅ Lesson 2: What is TypeScript & Why Shoud You Use it? - Complete <br>
+✅ Lesson 3: Join Our Learning Community - Complete <br>
+✅ Lesson 4: Installing & Using TypeScript - Complete <br>
+✅ Lesson 5: TypeScript Advantages - Overview - Complete <br>
 
 [Back To The Top](#understanding-typescript---2022-edition)
