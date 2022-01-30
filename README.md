@@ -22,4 +22,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 3: The TypeScript Compiler (and its Configuration)
+
+- Complete!
+
 [Back To The Top](#understanding-typescript---2022-edition)
