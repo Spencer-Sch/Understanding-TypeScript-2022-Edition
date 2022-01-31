@@ -66,4 +66,8 @@ Tracking my progress through the course.
 
 - Skipped For Now...
 
+#### Section 14: React.js & TypeScript
+
+- Complete
+
 [Back To The Top](#understanding-typescript---2022-edition)
