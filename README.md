@@ -30,4 +30,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 5: Classes & Interfaces
+
+- Complete!
+
 [Back To The Top](#understanding-typescript---2022-edition)
