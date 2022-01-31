@@ -34,4 +34,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 6: Advanced Types
+
+- Complete!
+
 [Back To The Top](#understanding-typescript---2022-edition)
