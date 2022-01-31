@@ -42,4 +42,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 8: Decorators
+
+- To Be Continued...
+
 [Back To The Top](#understanding-typescript---2022-edition)
