@@ -38,4 +38,8 @@ Tracking my progress through the course.
 
 - Complete!
 
+#### Section 7: Generics
+
+- Complete!
+
 [Back To The Top](#understanding-typescript---2022-edition)
