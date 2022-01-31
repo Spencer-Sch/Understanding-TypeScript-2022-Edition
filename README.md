@@ -46,4 +46,24 @@ Tracking my progress through the course.
 
 - To Be Continued...
 
+#### Section 9: Practice Time!
+
+- Skipped For Now...
+
+#### Section 10: Modules & Namespaces
+
+- Skipped For Now...
+
+#### Section 11: Using Webpack with TypeScript
+
+- Skipped For Now...
+
+#### Section 12: 3rd Party Libraries & TypeScript
+
+- Skipped For Now...
+
+#### Section 13: Time To Practice!
+
+- Skipped For Now...
+
 [Back To The Top](#understanding-typescript---2022-edition)
